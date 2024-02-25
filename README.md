@@ -9,7 +9,7 @@ To develop a neural network regression model for the given dataset.
 The problem statement for developing a neural network regression model involves predicting a continuous value output based on a set of input features. In regression tasks, the goal is to learn a mapping from input variables to a continuous target variable.
 
 ## Neural Network Model
-![OP](./1.png)
+![OP](./a1.png)
 ## DESIGN STEPS
 
 ### STEP 1:
